@@ -1,7 +1,7 @@
 # tictactoe 🎮
 
 <h3>Description :</h3> 
-Experience the classic Tic-Tac-Toe game like never before on our website, powered by TypeScript. Enjoy sleek design, error-free gameplay, and challenge friends or our advanced AI. Play the timeless game seamlessly fused with cutting-edge web development.
+Experience the classic Tic-Tac-Toe game like never before on our website, powered by TypeScript. Enjoy sleek design, error-free gameplay, and challenge friends. Play the timeless game seamlessly fused with cutting-edge web development.
 
 <br/>
 
